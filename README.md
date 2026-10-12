@@ -754,7 +754,7 @@ The goal is to make **data querying dramatically more accessible while still exp
 
 AI / ML • Data Analytics • Python • Backend Development
 
-GitHub: [ramtanay](https://github.com/princeperspective)
+GitHub: [princeperspective](https://github.com/princeperspective)
 
 ---
 
